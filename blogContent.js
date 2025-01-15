@@ -159,7 +159,7 @@ Is there a specific room in your home you're looking to transform into a minimal
         date: "12 Feb 2022",
         description: "Artificial intelligence integrating into daily routines, streamlining tasks and enhancing experiences.",
         author: "Marque Brown",
-        image: "image/images (1).jpeg",
+        image: "image/ai.jpeg",
         authorImage: "image/img2.jpeg",
         blogContent:`Embracing the AI Revolution: Transforming Our World
 Introduction
