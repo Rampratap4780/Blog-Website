@@ -240,7 +240,7 @@ blogPosts.forEach((post, index) => {
         <div class="content">
             <div class="name">${post.title}</div>
             <div class="des">${post.description}</div>
-            <button>See More</button>
+           <button onclick="location.href='#container';">See More</button>
         </div>
     `;
     slideItem.innerHTML = content;
